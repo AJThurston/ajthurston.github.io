@@ -1,9 +1,1 @@
-theme: jekyll-theme-minima
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - index.md
-  - README.md
+theme: jekyll-theme-slate
